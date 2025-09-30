@@ -3,6 +3,7 @@
 redownload full blockchain if not have 
 
 txindex=1
+
 addressindex=1
 
 bitcoin and dogecoin rpc explorer:
