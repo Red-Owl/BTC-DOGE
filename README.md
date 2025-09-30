@@ -4,6 +4,7 @@
 
 # BTC-DOGE
 "C:\Program Files\Bitcoin\bitcoin-qt.exe" -conf="E:\bitcoin\bitcoin.conf" -datadir="E:\bitcoin"
+
 redownload full blockchain if not have 
 
 txindex=1
