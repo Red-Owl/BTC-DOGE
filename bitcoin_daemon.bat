@@ -1,0 +1,1 @@
+"C:\Program Files\Bitcoin\daemon\bitcoind.exe" -conf="E:\bitcoin\bitcoin.conf" -datadir="E:\bitcoin"

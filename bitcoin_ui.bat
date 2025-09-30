@@ -1,0 +1,1 @@
+"C:\Program Files\Bitcoin\bitcoin-qt.exe" -conf="E:\bitcoin\bitcoin.conf" -datadir="E:\bitcoin"
