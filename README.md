@@ -1,3 +1,7 @@
+# DONATION: (dogecoin) DSMVdPJZ7NcXnSJZcgaMWkd2VQwQ8KcD2b
+# Thank you 
+
+
 # BTC-DOGE
 "C:\Program Files\Bitcoin\bitcoin-qt.exe" -conf="E:\bitcoin\bitcoin.conf" -datadir="E:\bitcoin"
 redownload full blockchain if not have 
